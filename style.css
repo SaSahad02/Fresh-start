@@ -4,6 +4,8 @@ h1 {
     font-weight: bold;
 }
 div {
-    padding-right: 300px;
-    padding-left: 500px;
+    padding: 100px;
+}
+body {
+    background-color: antiquewhite;
 }
